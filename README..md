@@ -57,5 +57,5 @@ Working on this project helped me practice:
 
 ## Author
 
-Elizabeth Testimony
+Elizabeth Akinyi
 Data Analyst
